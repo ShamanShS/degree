@@ -1,0 +1,15 @@
+C:\c#\degree\bin\Debug\net6.0\degree.exe
+C:\c#\degree\bin\Debug\net6.0\degree.deps.json
+C:\c#\degree\bin\Debug\net6.0\degree.runtimeconfig.json
+C:\c#\degree\bin\Debug\net6.0\degree.dll
+C:\c#\degree\bin\Debug\net6.0\degree.pdb
+C:\c#\degree\obj\Debug\net6.0\degree.csproj.AssemblyReference.cache
+C:\c#\degree\obj\Debug\net6.0\degree.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\degree\obj\Debug\net6.0\degree.AssemblyInfoInputs.cache
+C:\c#\degree\obj\Debug\net6.0\degree.AssemblyInfo.cs
+C:\c#\degree\obj\Debug\net6.0\degree.csproj.CoreCompileInputs.cache
+C:\c#\degree\obj\Debug\net6.0\degree.dll
+C:\c#\degree\obj\Debug\net6.0\refint\degree.dll
+C:\c#\degree\obj\Debug\net6.0\degree.pdb
+C:\c#\degree\obj\Debug\net6.0\degree.genruntimeconfig.cache
+C:\c#\degree\obj\Debug\net6.0\ref\degree.dll

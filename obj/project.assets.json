@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Shama\\.nuget\\packages\\": {}
+    "C:\\Users\\Markk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c#\\degree\\degree.csproj",
-      "projectName": "degree",
-      "projectPath": "C:\\c#\\degree\\degree.csproj",
-      "packagesPath": "C:\\Users\\Shama\\.nuget\\packages\\",
-      "outputPath": "C:\\c#\\degree\\obj\\",
+      "projectUniqueName": "D:\\C#\\Some new task\\Some new task.csproj",
+      "projectName": "Some new task",
+      "projectPath": "D:\\C#\\Some new task\\Some new task.csproj",
+      "packagesPath": "C:\\Users\\Markk\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\Some new task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Shama\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Markk\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

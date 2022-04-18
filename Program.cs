@@ -47,8 +47,17 @@ class degree
     
     static Int64 PowerR(Int64 value, Int64 pow, Int64 mod)
     {
+        List<long> mas = new List<long>();
         Int64 result = 1;
-        for (Int64 i = pow; i > 0; i--)
+        Int64 p = pow; 
+        while (p >= 1)
+        {
+            long a = p % 2;
+            mas.Add(a);
+            p /= 2;
+        }
+        mas.Reverse();
+        foreach (long i in mas)
         {
             result = (result*result) % mod;
             if(i == 1)
